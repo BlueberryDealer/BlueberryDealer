@@ -40,7 +40,7 @@ Previously: trained and deployed on-device object-detection models for an **AR p
 | Project | Description | Tech |
 |---|---|---|
 | [**QUENCH — Drinks E-Commerce Site**](https://github.com/BlueberryDealer/INF1005-Project) | Full-stack e-commerce platform with an AI chatbot built on Claude's API, Google Maps store locator, coupon system, and dark/light theming. Hardened with CSRF tokens, bcrypt hashing, and role-based access control. Deployed on GCP. | PHP · MySQL · Bootstrap · Claude API |
-| [**Abstract Engine — 2D Game Engine**](https://github.com/DerrickHoZX/OOP-Project) | Reusable Java game engine using Factory, Strategy, and Observer patterns, with scene management, entity systems, and event-driven architecture. Led a five-person team and integrated all subsystems. | Java · libGDX · Design Patterns |
+| [**Abstract Engine — 2D Game Engine**](https://github.com/DerrickHoZX/OOP-Project) | Reusable Java game engine using Factory, Strategy, and Observer patterns, with scene management, entity systems, and event-driven architecture. Worked as a five-person team and integrated all subsystems. | Java · libGDX · Design Patterns |
 | [**Stock Market Trend Analysis**](https://github.com/chloelxy/P4-3) | Interactive Streamlit dashboard on live yfinance data — SMA indicators, daily returns, streak detection, and a max-profit buy/sell algorithm. Modular `src/` package with pytest unit tests. | Python · Streamlit · Plotly · pytest |
 | [**MRT Route Finder**](https://github.com/BlueberryDealer/MRT-Route-Finder) | Singapore MRT route planner using Dijkstra's algorithm with three routing modes: fastest time, fewest stops, and fewest transfers. | Python · Graph Algorithms |
 
