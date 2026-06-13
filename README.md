@@ -2,10 +2,6 @@
 
 **Applied Computing (FinTech)** undergraduate at **Singapore Institute of Technology**, headed toward the payments and web3 side of fintech.
 
-Currently building a **social e-wallet mobile app** in Flutter with industry partner **BevEat** — token-based rewards, QR redemption, multi-role platform.
-
-Previously: trained and deployed on-device object-detection models for an **AR preventive-maintenance app** at SICK Sensor Intelligence.
-
 ## 🛠 Tech Stack
 
 **Languages**
